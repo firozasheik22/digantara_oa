@@ -1,6 +1,4 @@
-# digantara_oa
-FIROZA - Digantara - Backend Assessment Submission
-
+# FIROZA - Digantara - Backend Assessment Submission
 # 🗓 Scheduler Microservice
 
 A scalable job scheduler microservice built with **Node.js**, **Express**, **Sequelize**, **BullMQ**, and **Redis**. 
